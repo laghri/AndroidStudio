@@ -7,23 +7,12 @@
             android:id="@+id/standard"
             android:title="Standard"
             android:orderInCategory="100"
-            app:showAsAction="never"
-
-            />
+            app:showAsAction="never" />
         <item
             android:id="@+id/scientifique"
             android:title="scientifique"
             android:orderInCategory="100"
-            app:showAsAction="never"
-
-            />
-        <item
-            android:id="@+id/settings"
-            android:title="Settings"
-            android:orderInCategory="100"
-            app:showAsAction="never"
-
-            />
+            app:showAsAction="never" />
         <item
             android:id="@+id/historique"
             android:title="Historique"
@@ -31,9 +20,5 @@
             app:showAsAction="never"
 
             />
-
-
-
-
     </group>
 </menu>
